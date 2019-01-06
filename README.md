@@ -1,2 +1,6 @@
 # hello-world
-first repository
+
+
+Hello,
+
+My name is Lauren and I like to play games, watch movies, and steal memes.
